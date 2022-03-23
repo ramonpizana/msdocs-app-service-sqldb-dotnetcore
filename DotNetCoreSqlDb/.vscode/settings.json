@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net6.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/51b1aa29-eeac-49af-8470-101c47ce350b/resourceGroups/rg_sqlservice/providers/Microsoft.Web/sites/coreSQL"
+}
